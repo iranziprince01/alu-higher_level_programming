@@ -1,6 +1,9 @@
 #!/usr/bin/python3
-for j in range(0, 100):
-    if j != 99:
-        print("{:02d}, ".format(j), end="")
-    else:
-        print("{:02d}".format(j))
+import random
+number = random.randint(-10, 10)
+if number < 0:
+    print("{} is negative".format(number))
+elif number == 0:
+    print("{} is zero".format(number))
+else:
+    print("{} is positive".format(number))
