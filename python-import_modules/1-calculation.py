@@ -1,22 +1,29 @@
 #!/usr/bin/python3
-
 # import functions from calculation file
+
+def add(x, y):
+    return x + y
+
+def subtract(x, y):
+    return x - y
+
+def multiply(x, y):
+    return x * y
+
+def divide(x, y):
+    return x / y
+
 from calculator_1 import add, subtract, multiply, divide
 
-if __name__ == '__main__':
-    # define variables a and b
-    a = 10
-    b = 5
+a = 10
+b = 5
 
-    # perform the calculations
-    sum_ab = add(a, b)
-    diff_ab = subtract(a, b)
-    prod_ab = multiply(a, b)
-    quot_ab = divide(a, b)
+sum_result = add(a, b)
+difference_result = subtract(a, b)
+product_result = multiply(a, b)
+quotient_result = divide(a, b)
 
-    # display the results
-    print("{} + {} = {}".format(a, b, sum_ab))
-    print("{} - {} = {}".format(a, b, diff_ab))
-    print("{} * {} = {}".format(a, b, prod_ab))
-    print("{} / {} = {}".format(a, b, quot_ab))
-
+print(f"The sum of {a} and {b} is {sum_result}.")
+print(f"The difference between {a} and {b} is {difference_result}.")
+print(f"The product of {a} and {b} is {product_result}.")
+print(f"The quotient of {a} and {b} is {quotient_result}.")
