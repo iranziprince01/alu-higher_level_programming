@@ -14,7 +14,7 @@ prod_ab = multiply(a, b)
 quot_ab = divide(a, b)
 
 # display the results
-print(f"The sum of {a} and {b} is {sum_ab}.")
-print(f"The difference between {a} and {b} is {diff_ab}.")
-print(f"The product of {a} and {b} is {prod_ab}.")
-print(f"The quotient of {a} and {b} is {quot_ab}.")
+print("The sum of {} and {} is: {}".format(a, b, sum_ab))
+print("The difference between {} and {} is: {}".format(a, b,diff_ab))
+print("The Product of {} and {} is: {}".format(a, b, prod_ab))
+print("The qotient of {} and {} is: {}".format(a, b, quot_ab))
