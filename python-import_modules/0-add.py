@@ -8,7 +8,7 @@ if __name__ == '__main__':
     a = 1
     b = 2
 
-    # call the add function with arguments a and b and store the result in a variable called result
+    # call the add function with arguments a and b to display the result
     result = add(a, b)
 
     # print the result using string formatting
