@@ -2,7 +2,7 @@
 
 if __name__ == '__main__':
     # import the add function from add_0.py
-    from add_0 import add
+    def add(a, b):
 
     # define variables a and b
     a = 1
