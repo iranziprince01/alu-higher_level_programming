@@ -14,7 +14,7 @@ if __name__ == '__main__':
     prod_ab = multiply(a, b)
     quot_ab = divide(a, b)
 
-    # print the results
+    # display the results
     print("{} + {} = {}".format(a, b, sum_ab))
     print("{} - {} = {}".format(a, b, diff_ab))
     print("{} * {} = {}".format(a, b, prod_ab))
