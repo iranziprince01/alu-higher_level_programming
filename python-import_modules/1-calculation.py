@@ -13,7 +13,7 @@ diff_ab = subtract(a, b)
 prod_ab = multiply(a, b)
 quot_ab = divide(a, b)
 
-# print the results
+# display the results
 print(f"The sum of {a} and {b} is {sum_ab}.")
 print(f"The difference between {a} and {b} is {diff_ab}.")
 print(f"The product of {a} and {b} is {prod_ab}.")
