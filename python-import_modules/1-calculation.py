@@ -3,6 +3,8 @@
 # import functions from calculation file
 from calculator_1 import add, subtract, multiply, divide
 
+if __name__ == '__main__':
+
 # define variables a and b
 a = 10
 b = 5
