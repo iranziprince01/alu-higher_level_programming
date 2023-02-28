@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-echo "#pythoniscool"
+import python_for_me
