@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-"""New class Square"""
 
+
+""" This module defines a square class. """
 
 class Square:
     def __init__(self, size):
