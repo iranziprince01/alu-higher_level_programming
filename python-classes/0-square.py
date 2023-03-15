@@ -3,4 +3,5 @@
 
 class Square:
     """ Empty class """
+    Square = __import__('0-square').Square
     pass
