@@ -24,14 +24,14 @@ class Square:
         """
         __my_string = ""
         if self.__size is not 0:
-            for m in range(self.__position[1]):
+            for y in range(self.__position[1]):
                 __my_string += '\n'
-            for n in range(self.__size):
-                for o in range(self.__position[0]):
+            for i in range(self.__size):
+                for x in range(self.__position[0]):
                     __my_string += ' '
-                for p in range(self.__size):
+                for j in range(self.__size):
                     __my_string += '#'
-                if q is not self.__size - 1:
+                if i is not self.__size - 1:
                     __my_string += '\n'
         return __my_string
 
@@ -77,12 +77,12 @@ class Square:
         offset where the printing should begin. The x, y coordinate in
         'position' is the location of the top left corner of the square."""
         if self.__size is not 0:
-            for m in range(self.__position[1]):
+            for y in range(self.__position[1]):
                 print()
-            for n in range(self.__size):
-                for o in range(self.__position[0]):
+            for i in range(self.__size):
+                for x in range(self.__position[0]):
                     print(" ", end="")
-                for p in range(self.__size):
+                for j in range(self.__size):
                     print("#", end="")
                 print()
         else:
