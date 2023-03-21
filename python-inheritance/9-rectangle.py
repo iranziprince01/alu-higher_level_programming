@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 """ New class """
 BaseGeometry = __import__("7-base_geometry").BaseGeometry
 
