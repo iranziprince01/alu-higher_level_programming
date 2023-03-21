@@ -3,6 +3,9 @@
 
 
 import sys
+"""
+This module reads input from stdin in the following format:
+"""
 
 status_codes = ["200", "301", "400", "401", "403", "404", "405", "500"]
 metrics = {"total_size": 0, "status_code_count": {code: 0 for code in status_codes}}
@@ -25,19 +28,3 @@ except KeyboardInterrupt:
     for code in sorted(metrics["status_code_count"].keys()):
         if metrics["status_code_count"][code] > 0:
             print("{}: {}".format(code, metrics["status_code_count"][code]))
-
-
-"""
-This module reads input from stdin in the following format:
-<IP Address> - [<date>] "GET /projects/260 HTTP/1.1" <status code> <file size>
-
-For every 10 lines of input or when a keyboard interruption (CTRL + C) is detected, the module prints the following statistics since the beginning:
-- Total file size: File size: <total size> (sum of all previous file sizes)
-- Number of lines by status code (in ascending order):
-    <status code>: <number>
-
-Possible status codes: 200, 301, 400, 401, 403, 404, 405, and 500.
-
-Note: This module assumes that the input format is consistent with the format specified in the prompt and does not handle any errors that may arise from malformed input.
-"""
-
