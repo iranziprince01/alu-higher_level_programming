@@ -1,5 +1,7 @@
--- Querry script that lists all records of the table second_table of the database
--- Don’t list rows without a name value
--- Results should display the score and the name (in this order)
--- Records should be listed by descending score
-SELECT score, name FROM `second_table` WHERE name IS NOT NULL ORDER BY score desc;
+-- Change character set and collate to UTF8
+-- Change the database: `hbtn_0c_0`i to UTF8
+ALTER DATABASE `hbtn_0c_0` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+-- Change the database
+USE hbtn_0c_0;
+-- Change all and future columns in `first_table` to UTF8
+ALTER TABLE first_table CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
