@@ -1,1 +1,2 @@
-SELECT AVG (*) `score` as 'average' FROM `second_table`;
+-- Querry to delete all rows where `score <= 5 in the table `second_table`
+DELETE FROM `second_table` WHERE `score` <= 5;
