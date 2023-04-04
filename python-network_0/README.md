@@ -2,8 +2,8 @@
 # Resources
 Read or watch:
 <ul>
-<li><p><a href="https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html"> HTTP (HyperText Transfer Protocol)</a> (except: “TRACE” Request Method, “CONNECT” Request Method, Language Negotiation and “Options MultiView” and Character Set Negotiation)</p></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies">Cookies</a></ul>
+<li><p><a href="https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html" target="_blank"> HTTP (HyperText Transfer Protocol)</a> (except: “TRACE” Request Method, “CONNECT” Request Method, Language Negotiation and “Options MultiView” and Character Set Negotiation)</p></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies" target="_blank">Cookies</a></ul>
 <h1>Learning Objectives</h1>
 <p>At the end of this project, you are expected to be able to explain to anyone, without the help of Google:</p>
 <ul>
