@@ -5,7 +5,7 @@
 
 
 def matrix_divided(matrix, div):
-    """ Takes a matrix and divide the values by 'div'
+    """ Takes a matrix and divides the values by 'div'
     Args:
         matrix (:obj:'list' of :obj:'list'): lists of lists of integers/floats
         div (int or float): The divisor
@@ -42,4 +42,4 @@ def matrix_divided(matrix, div):
                 raise TypeError("matrix must be a matrix (list of lists) of "
                                 "integers/floats")
         new_matrix.append(new_row)
-    return
+    return new_matrix
