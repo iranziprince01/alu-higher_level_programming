@@ -8,33 +8,36 @@
   <img src="https://github.com/iranziprince01/alu-higher_level_programming/assets/116654088/237184cb-f405-4047-a975-6e099e0b5920">
             
             <h1>Resources</h1>
-To Read or watch:
-
-[Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+  <h3>To Read or watch:</h3>
+<ul>
+  
+<li>[Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)</li>
             
-[Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+<li>[Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)</li>
             
-[Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+  <li>[Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)</li>
             
-[Operators](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+<li>[Operators](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)</li>
             
-[Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+<li>[Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)</li>
             
-[Controlling Program Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+<li>[Controlling Program Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)</li>
             
-[Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+<li>[Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)</li>
             
-[Objects and Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+  <li>[Objects and Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)</li>
             
-[Intrinsic Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+  <li>[Intrinsic Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)</li>
             
-[Module patterns](https://darrenderidder.github.io/talks/ModulePatterns/#/)
+  <li>[Module patterns](https://darrenderidder.github.io/talks/ModulePatterns/#/)</li>
             
-[var, let and const](https://www.youtube.com/watch?v=sjyJBL5fkp8)
+  <li>[var, let and const](https://www.youtube.com/watch?v=sjyJBL5fkp8)</li>
             
-[JavaScript Tutorial](https://www.youtube.com/watch?v=vZBCTc9zHtI)
+  <li>[JavaScript Tutorial](https://www.youtube.com/watch?v=vZBCTc9zHtI)</li>
             
-[Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)
+  <li>[Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)</li>
+ 
+  </ul>
             
  <h2>General Learning Objectives<h2>
 <ul>
