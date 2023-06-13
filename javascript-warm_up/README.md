@@ -9,6 +9,7 @@
             
             <h1>Resources</h1>
   <h3>To Read or watch:</h3>
+  
 <ul>
   
 <li>[Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)</li>
