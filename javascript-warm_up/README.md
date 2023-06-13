@@ -6,14 +6,12 @@
   <li>Web front-end</li>
 <p>For the moment, and for learning all basic concepts of this language, we will do some scripting. After, we will make our AirBnB project dynamic by using Javascript and JQuery.</p>
   <img src="https://github.com/iranziprince01/alu-higher_level_programming/assets/116654088/237184cb-f405-4047-a975-6e099e0b5920">
-            
-            <h1>Resources</h1>
+  <h1>Resources</h1>
+  
   <h3>To Read or watch:</h3>
-  
-<ul>
-  <li>[Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)</li>
-  
-  <li>[Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)</li>
+  <ul>
+    <li>[Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)</li>
+    <li>[Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)</li>
   
   <li>[Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)</li>
   
