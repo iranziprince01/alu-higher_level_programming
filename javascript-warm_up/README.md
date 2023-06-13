@@ -9,44 +9,33 @@
   <h1>Resources</h1>
   
   <h3>To Read or watch:</h3>
-  <ul>
-    <li>[Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)</li>
-    <li>[Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)</li>
   
-  <li>[Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)</li>
+  1. [Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
   
-  <li>[Operators](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)</li>
+  2. [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
   
+  3. [Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+  
+  4. [Operators](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+  
+  5. [Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+  
+  6. [Controlling Program Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+  
+  7. [Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+  
+  8. [Objects and Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+  
+  9. [Intrinsic Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+  
+  10. [Module patterns](https://darrenderidder.github.io/talks/ModulePatterns/#/)
+  
+  11. [var, let and const](https://www.youtube.com/watch?v=sjyJBL5fkp8)
+  12. [JavaScript Tutorial](https://www.youtube.com/watch?v=vZBCTc9zHtI)
+  
+  13. [Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)
             
-<li>[Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)</li>
-  
-            
-<li>[Controlling Program Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)</li>
-  
-            
-<li>[Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)</li>
-  
-            
-  <li>[Objects and Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)</li>
-  
-            
-  <li>[Intrinsic Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)</li>
-  
-            
-  <li>[Module patterns](https://darrenderidder.github.io/talks/ModulePatterns/#/)</li>
-  
-            
-  <li>[var, let and const](https://www.youtube.com/watch?v=sjyJBL5fkp8)</li>
-  
-            
-  <li>[JavaScript Tutorial](https://www.youtube.com/watch?v=vZBCTc9zHtI)</li>
-  
-            
-  <li>[Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)</li>
- 
-  </ul>
-            
- <h2>General Learning Objectives<h2>
+ <h2>General Learning Objectives</h2>
 <ul>
             <li>Why JavaScript programming is amazing</li>
             <li>How to run a JavaScript script</li>
@@ -64,3 +53,4 @@
             <li>What are the arithmetic operators and how to use them</li>
             <li>How to manipulate dictionary</li>
             <li>How to import a file</li>
+  </ul>
