@@ -13,28 +13,40 @@
 <ul>
   
 <li>[Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)</li>
+  
             
 <li>[Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)</li>
+  
             
   <li>[Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)</li>
+  
             
 <li>[Operators](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)</li>
+  
             
 <li>[Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)</li>
+  
             
 <li>[Controlling Program Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)</li>
+  
             
 <li>[Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)</li>
+  
             
   <li>[Objects and Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)</li>
+  
             
   <li>[Intrinsic Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)</li>
+  
             
   <li>[Module patterns](https://darrenderidder.github.io/talks/ModulePatterns/#/)</li>
+  
             
   <li>[var, let and const](https://www.youtube.com/watch?v=sjyJBL5fkp8)</li>
+  
             
   <li>[JavaScript Tutorial](https://www.youtube.com/watch?v=vZBCTc9zHtI)</li>
+  
             
   <li>[Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)</li>
  
