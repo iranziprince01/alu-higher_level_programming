@@ -11,17 +11,13 @@
   <h3>To Read or watch:</h3>
   
 <ul>
+  <li>[Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)</li>
   
-<li>[Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)</li>
+  <li>[Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)</li>
   
-            
-<li>[Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)</li>
-  
-            
   <li>[Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)</li>
   
-            
-<li>[Operators](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)</li>
+  <li>[Operators](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)</li>
   
             
 <li>[Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)</li>
