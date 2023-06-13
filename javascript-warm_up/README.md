@@ -1,5 +1,5 @@
 <h1>JavaScript - Warm up</h1>
-<h2>Background Context<h2>
+<h2>Background Context</h2>
 <p>JavaScript is used for many things. Here, you will use JavaScript for 2 reasons:<p>
 <ul>
   <li>Scripting (same as we did with Python)</li>
